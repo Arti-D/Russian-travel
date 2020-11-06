@@ -1,0 +1,27 @@
+.intro {
+    padding-top: 92px;
+    color: white;
+    max-width: 984px;
+    margin: 0 auto;
+}
+
+@media (max-width: 1024px) {
+    .intro {
+        max-width: 928px;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 767px) {
+    .intro {
+        width: 90%;
+        padding-top: 64px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 1023px) {
+    .intro {
+        width: 94%;
+        padding-top: 88px;
+    }
+}
+

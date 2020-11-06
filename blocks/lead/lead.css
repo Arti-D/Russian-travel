@@ -1,13 +1,13 @@
 .lead {
-  width: 90%;
+  max-width: 984px;
   color: white;
   padding-top: 56px;
   margin: 0 auto;
 }
 
-@media (max-width: 1023px) {
+@media (max-width: 1024px) {
   .lead {
     padding-top: 48px;
-    width: 100%;
+    max-width: 928px;
   }
 }

@@ -5,8 +5,8 @@
     padding-left: 0;
 }
 
-@media (min-width: 320px) and (max-width: 768px) {
-    .header__link {
+@media (min-width: 320px) and (max-width: 767px) {
+    .header__list {
         margin: 14px 0 8px;
     }
 }
