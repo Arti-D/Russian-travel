@@ -13,3 +13,6 @@
 - Flex-box
 - Адаптивная верстка
 - Работа с макетом в Figma
+------
+
+ссылка на проект: https://arti-d.github.io/russian-travel/index.html
