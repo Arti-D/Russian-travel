@@ -25,7 +25,6 @@
   .place {
     display: block;
     margin-bottom: 50px;
-
   }
 }
 
@@ -34,5 +33,5 @@
     margin-bottom: 74px;
     row-gap: 28px;
     grid-template-columns: 340px 1fr;
-}
+  }
 }
