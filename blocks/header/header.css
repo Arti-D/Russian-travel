@@ -1,13 +1,15 @@
 .header {
+  font-family: "Inter", Arial, sans-serif;
   display: flex;
   width: 92.5%;
-  margin: 28px auto 0;
+  padding-top: 28px;
+  margin: 0 auto;
   justify-content: space-between;
 }
 
 @media (min-width: 769px) and (max-width: 1024px) {
   .header {
-    width: 90%;
+    width: 90.5%;
   }
 }
 
@@ -20,6 +22,6 @@
 @media (min-width: 320px) and (max-width: 767px) {
   .header {
     width: 90%;
-    margin-top: 16px;
+    padding-top: 16px;
   }
 }
