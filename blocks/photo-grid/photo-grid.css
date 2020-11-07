@@ -12,7 +12,7 @@
     .photo-grid {
         padding-top: 64px;
         grid-gap: 12px;
-        max-width: 90%;
+        width: 90%;
     }
 }
 
@@ -20,13 +20,13 @@
     .photo-grid {
         padding-top: 88px;
         grid-gap: 16px;
-        max-width: 94%;
+        width: 94%;
     }
 }
 
 @media (min-width: 1024px) and (max-width: 1279px) {
     .photo-grid {
         grid-gap: 14px;
-        max-width: 90.6%;
+        width: 90.6%;
     }
 }
