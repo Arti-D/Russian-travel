@@ -15,7 +15,7 @@
   }
 }
 
-@media (min-width: 321px) and (max-width: 767px) {
+@media (max-width: 767px) {
   .place__title {
     margin-bottom: 32px;
     font-size: 32px;

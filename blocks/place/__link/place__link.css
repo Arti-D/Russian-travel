@@ -5,4 +5,9 @@
   line-height: 1.22;
   text-decoration-line: underline;
   cursor: pointer;
+  align-self: start;
+}
+
+.place__link:hover {
+  opacity: 0.8;
 }
